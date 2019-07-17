@@ -1,0 +1,23 @@
+{
+  "name": "GitStore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as171861963/chentao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/as171861963/chentao/issues"
+  },
+  "homepage": "https://github.com/as171861963/chentao#readme",
+  "dependencies": {
+    "lodash": "^4.17.14"
+  }
+}
