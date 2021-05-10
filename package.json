@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/as171861963/chentao#readme",
   "dependencies": {
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.21"
   }
 }
